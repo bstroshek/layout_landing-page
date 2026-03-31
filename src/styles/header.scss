@@ -1,5 +1,5 @@
 .header {
-  background: url('./imagesheader-bg.jpg') center/cover no-repeat;
+  background: url('../images/header-bg.jpg') center/cover no-repeat;
   height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr;
@@ -95,11 +95,11 @@
 }
 
 .icon--phone {
-  background: url('./imagesicons/icon-phone.svg') center/cover no-repeat;
+  background: url('../images/icons/icon-phone.svg') center/cover no-repeat;
 }
 
 .icon--menu {
-  background: url('./imagesicons/icon-burger.svg') center/cover no-repeat;
+  background: url('../images/icons/icon-burger.svg') center/cover no-repeat;
 }
 
 .header__phone-tooltip {
